@@ -9,4 +9,12 @@
 body{
     background-color: #E86A31;
     /*you could add more properties to change right in here, no need to call body again.*/
+    
+  background: #FF4992;
+  background: linear-gradient(to right bottom, #B536FF, #7DF0EF,#FF4992 );
+  
+        
+  
+  
 }
+
